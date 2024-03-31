@@ -33,7 +33,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
   </p>
 </p>
 
-<div align="right">
+<div align="left">
  
 <p align="center">
   <i>
