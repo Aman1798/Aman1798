@@ -19,13 +19,13 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
 
 **Portfolio Website:**
 
-<center>
+<p align="center">
     <h4>
         <a href="https://aman1798.github.io/PortfolioWebsite/" target="_blank">
             <img src="gifs/portfolio.gif" width="500">
         </a>
     </h4>
-</center>
+</p>
 
 
  ---
