@@ -29,7 +29,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
  ---
 
   <p align="center">
-    Demonstrate your appreciation by starring and forking repositories that you find valuable ❤️
+    Show your gratitude by starring and branching repositories that you deem valuable ❤️
   </p>
 </p>
 
@@ -37,7 +37,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
  
 <p align="center">
   <i>
-  Let's link up and have a conversation! Locate me online...</i>
+  Let's link up and have a conversation! Locate me online :</i>
   
    [![Website Badge](https://img.shields.io/badge/-aman1798.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aman1798.github.io/PortfolioWebsite/)](https://aman1798.github.io/PortfolioWebsite/) 
    
