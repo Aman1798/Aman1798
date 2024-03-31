@@ -21,7 +21,8 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
 
 **Portfolio Website:**
 
-<h4><img src="gifs/portfolio.gif" width="30px"></h4>
+<h4><a href="https://aman1798.github.io/PortfolioWebsite/" target="_blank"><img src="gifs/portfolio.gif" width="200px"></a></h4>
+
 
  ---
 
