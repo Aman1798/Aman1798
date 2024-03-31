@@ -53,8 +53,5 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
   </a>
 </p>
 
-   
-
-  
 
 </div>
