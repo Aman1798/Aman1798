@@ -29,7 +29,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
  ---
 
   <p align="center">
-    Show your gratitude by starring and branching repositories that you deem valuable ❤️
+    Show your gratitude by starring and branching repositories that you deem valuable 🌟
   </p>
 </p>
 
