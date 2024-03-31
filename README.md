@@ -27,6 +27,13 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
 </p>
 
  ---
+
+  <p align="center">
+    Demonstrate your appreciation by starring and forking repositories that you find valuable ❤️
+  </p>
+</p>
+
+<div align="right">
  
 <p align="center">
   <i>
@@ -39,12 +46,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
    [![Gmail Badge](https://img.shields.io/badge/aman1798singh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.aman1798singh@gmail.com)](mailto:v.aman1798singh@gmail.com)
    
    
-  <p align="center">
-    Demonstrate your appreciation by starring and forking repositories that you find valuable ❤️
-  </p>
-</p>
 
-<div align="right">
   
 
 </div>
