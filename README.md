@@ -43,6 +43,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
    </p>
 
 <p align="center">
+ <div align="center">
   <a href="https://aman1798.github.io/PortfolioWebsite/" onclick="window.open(this.href,'_blank');return false;">
     <img src="https://img.shields.io/badge/-My%20Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge">
   </a>
@@ -52,7 +53,8 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
   <a href="mailto:v.aman1798singh@gmail.com" onclick="window.open(this.href,'_blank');return false;">
     <img src="https://img.shields.io/badge/-aman1798singh-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-</p>
+</div>
+ </p>
 
 
 </div>
