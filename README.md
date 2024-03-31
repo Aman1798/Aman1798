@@ -50,7 +50,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
     <img src="https://img.shields.io/badge/-My%20Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
   <a href="mailto:v.aman1798singh@gmail.com" onclick="window.open(this.href,'_blank');return false;">
-    <img src="https://img.shields.io/badge/-My%20Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/-aman1798singh-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </p>
 
