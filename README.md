@@ -48,9 +48,7 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
   <a href="https://www.linkedin.com/in/amandeepsingh1798/" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
-  <a href="mailto:v.aman1798singh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
+  [![Gmail Badge](https://img.shields.io/badge/aman1798singh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.aman1798singh@gmail.com)](mailto:v.aman1798singh@gmail.com)
 </p>
    
 
