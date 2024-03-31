@@ -19,12 +19,9 @@ I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Scien
  
 **Github Stats:**
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=aman1798&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman1798&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+**Portfolio Website:**
 
-</p>
+<h4><img src="gifs/portfolio.gif" width="30px"></h4>
 
  ---
 
