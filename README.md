@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="gifs/wave.gif" width="30px"></h4>
 
-I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Science and Fintech enthusiast. I have done my Master's in Data Science from King's College London and Bachelor's in Economics from the University of Delhi. I have expertise in Python, Machine Learning, R, SQL, Tableau and statistical analysis. I excel in predictive modeling and ESG analytics, showcased through projects like Golf Winnings, Covid data API, Iris Flower Classification etc.
+I'm [Amandeep Singh](https://aman1798.github.io/PortfolioWebsite/), a Data Science and Fintech enthusiast. I am a Data Science graduate from King's College London and Bachelor's in Economics from the University of Delhi. I have expertise in Python, Machine Learning, R, SQL, Tableau and statistical analysis. I excel in predictive modeling and ESG analytics, showcased through projects like Golf Winnings, Covid data API, Iris Flower Classification etc.
 
  ---
  
